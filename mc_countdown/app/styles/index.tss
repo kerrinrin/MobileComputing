@@ -1,0 +1,25 @@
+".container": {
+	backgroundColor:"white"
+},
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+} 
+
+"#textField": {
+	
+	
+
+}
+
+
+"#calcButton": {
+	
+	width: "80%",
+	backgroundColor: "#649a1a",
+	color: "#fff",
+	padding: 30,
+	top: 350
+	
+}

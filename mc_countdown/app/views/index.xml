@@ -1,0 +1,18 @@
+<Alloy>
+	<Window class="container">
+		 <TextField id="textField" borderStyle="Ti.UI.INPUT_BORDERSTYLE_ROUNDED" color="#336699" top="50" left="50" width="250" height="60" value="This date" />
+		 
+		 
+		 <Picker id="picker"
+       
+          type="Ti.UI.PICKER_TYPE_DATE" >
+        </Picker>
+        
+        <Button id="calcButton" onClick="calc" title="Calculate"></Button>
+        
+        <Label top="410" id="result"> </Label>
+		 
+	</Window>
+	
+	
+</Alloy>

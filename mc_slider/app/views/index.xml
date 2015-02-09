@@ -1,0 +1,21 @@
+<Alloy>
+	<Window id="indexWindow">
+		
+		<Label id="label" top="40">Red</Label>
+			
+		 <Slider id="RedSlider" top="70" min="0" max="255" value="255" width="80%" onChange="changeColor"/>
+		 
+	
+		<Label id="label" top="90">Green</Label>
+			
+		 <Slider id="GreenSlider" top="120" min="0" max="255" value="255" width="80%" onChange="changeColor"/>
+		 
+		 
+		 <Label id="label" top="150">Blue</Label>
+			
+		 <Slider id="BlueSlider" top="180" min="0" max="255" value="255" width="80%" onChange="changeColor"/>
+		 
+		 <Label id="hex" top="230"></Label>
+	
+	</Window>
+</Alloy>
