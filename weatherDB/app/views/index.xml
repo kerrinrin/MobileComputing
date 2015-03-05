@@ -1,0 +1,12 @@
+<Alloy>
+	<NavigationWindow id="navWindow">
+		<Window id="indexWindow" title="Weather">
+			<!-- <View id="addContainer">
+				<TextField id ="itemTextField" hintText="Type here"/>
+					<Button id="addButton" title="Add"/>
+			</View>	 -->
+				<TableView id="citiesTableView"></TableView>
+		</Window>
+	</NavigationWindow>
+	
+</Alloy>

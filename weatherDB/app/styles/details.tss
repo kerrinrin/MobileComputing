@@ -1,0 +1,25 @@
+
+
+
+
+
+"#activityIndicator" : {
+	style: Ti.UI.iPhone.ActivityIndicatorStyle.DARK
+}
+
+
+"#tempLabel" : {
+	top: 200,
+	color: '#666',
+	font : {
+		fontSize: 42
+	}
+},
+
+"#descriptionLabel" : {
+	top: 260,
+	color: '#666',
+	font : {
+		fontSize: 18
+	}
+}

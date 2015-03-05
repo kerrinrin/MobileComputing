@@ -1,0 +1,20 @@
+"#navWindow" : {
+	
+	backgroundColor: '#fff'
+	
+}
+
+"#indexWindow": {
+	
+	backgroundColor: "#fff"
+	
+}
+
+
+"#thingsTableView": {
+	
+	
+	top: 20,
+	editing: false
+}
+

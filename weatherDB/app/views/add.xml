@@ -1,0 +1,19 @@
+<Alloy>
+	
+		<Window id="addWindow" title="Add Weather" >
+			<View id="addContainer">
+				<Label id="cityLabel">City</Label>
+				<TextField id ="cityTextField" hintText="Trenton"/>
+					
+			
+			
+				
+				<Label id="stateLabel">State</Label>
+				<TextField id ="stateTextField" hintText="NJ"/>
+					
+					
+					<Button id="addButton" title="Add"/>
+				</View>
+		</Window>
+	
+</Alloy>

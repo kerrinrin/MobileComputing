@@ -1,0 +1,15 @@
+<Alloy>
+	
+		<Window id="detailsWindow">
+		<View backgroundColor="#fff">
+			
+		<ActivityIndicator id="activityIndicator" message="Loading" />
+		<ImageView id="weatherIcon" />
+		<Label id="tempLabel"/>
+		<Label id="descriptionLabel" /> 
+			
+			
+		</View>
+		</Window>
+	
+</Alloy>

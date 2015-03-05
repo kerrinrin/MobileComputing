@@ -1,0 +1,61 @@
+"#cityTextField": {
+	
+	top: 40,
+	left: 15,
+	right: 15,
+	height: 40,
+	backgroundColor: '#fff',
+	paddingLeft: 10,
+	borderRadius: 5,
+	color: '#000',
+	width: "90%"
+	
+}
+
+
+"#cityLabel": {
+	left: 15,
+	top: 20
+}
+
+
+"#stateTextField": {
+	
+	top: 125,
+	left: 15,
+	height: 40,
+	width: "90%",
+	backgroundColor: '#fff',
+	paddingLeft: 10,
+	borderRadius: 5,
+	color: '#000'
+	
+}
+
+
+"#stateLabel": {
+	left: 15,
+	top: 105
+}
+
+
+
+
+"#addContainer": {
+	
+	
+	backgroundColor: '#eaeeee'
+}
+
+"#addButton": {
+	
+	top: 200, 
+
+	height: 40,
+	width: 140,
+	backgroundColor: '#690',
+	color: '#fff',
+	
+}
+
+
